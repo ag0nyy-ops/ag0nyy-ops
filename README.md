@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="File 001, subject: Jay. Rust developer: bots, websites, apps. Shipped skyscrob, Mimic, inputlab. Stamped classified." width="100%">
+  <img src="assets/banner.png" alt="File 001, subject: Jay. Rust & Swift developer: bots, websites, apps. Shipped skyscrob, Mimic, inputlab. Stamped classified." width="100%">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 **■ FILE 001 / SUBJECT**
 
-Rust developer. I build bots, websites and apps, mostly because I wanted them to exist, and I ship them.
+Rust and Swift developer. I build bots, websites and apps, mostly because I wanted them to exist, and I ship them.
 
 ### ■ CASE FILES
 
