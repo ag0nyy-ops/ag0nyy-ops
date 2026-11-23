@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="File 001, subject: Jay. Rust & Swift developer: bots, websites, apps. Shipped skyscrob, Mimic, inputlab. Stamped classified." width="100%">
+  <img src="assets/banner-v2.png" alt="File 001, subject: Jay. Rust & Swift developer: bots, websites, apps. Shipped skyscrob, Mimic, inputlab. Stamped classified." width="100%">
 </p>
 
 <p align="center">
