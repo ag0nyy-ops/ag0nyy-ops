@@ -20,9 +20,8 @@ Rust and Swift developer. I build bots, websites and apps, mostly because I want
 | [Mimic](https://github.com/ag0nyy-ops/Mimic) | Put any game on your Discord rich presence. Searchable picker, presets, tray app. | Rust, Tauri | ![release](https://img.shields.io/github/v/release/ag0nyy-ops/Mimic?include_prereleases&style=flat-square&label=shipped&color=060606&labelColor=ececec) |
 | [Folkstyle](https://github.com/ag0nyy-ops/wrestle) | Arcade wrestling in the browser. Your sticks are your hands, your triggers are your hips. [Play it](https://ag0nyy-ops.github.io/wrestle/). | JavaScript, Canvas | ![live](https://img.shields.io/badge/status-live-060606?style=flat-square&labelColor=ececec) |
 | [revived](https://github.com/ag0nyy-ops/revived) | From-scratch rewrites of abandoned open-source tools, with tests. | Go, Rust | ![live](https://img.shields.io/badge/status-live-060606?style=flat-square&labelColor=ececec) |
-| [name](https://github.com/ag0nyy-ops/name) | Name rarity calculator on SSA and Census data. Runs entirely in your browser. | Next.js, TypeScript, Tailwind | ![live](https://img.shields.io/badge/status-live-060606?style=flat-square&labelColor=ececec) |
+| [NutritionCoach](https://github.com/ag0nyy-ops/NutritionCoach) | Calorie and macro tracker for iPhone that coaches your targets from your own data. Adaptive expenditure, barcode and label scanning, offline food index. | Swift, SwiftUI, HealthKit | ![status](https://img.shields.io/badge/status-in_progress-060606?style=flat-square&labelColor=ececec) |
 | [ag0nyy-ops.github.io](https://github.com/ag0nyy-ops/ag0nyy-ops.github.io) | My portfolio. No framework, CSS-heavy, three performance tiers. | HTML, CSS, JavaScript | ![live](https://img.shields.io/badge/status-live-060606?style=flat-square&labelColor=ececec) |
-<!-- TODO: add NutritionCoach (Swift, SwiftUI, HealthKit) once the repo is public -->
 
 ### ■ TOOLS
 
